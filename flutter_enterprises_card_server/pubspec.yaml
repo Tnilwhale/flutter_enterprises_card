@@ -1,0 +1,7 @@
+name: flutter_enterprisecard_server
+description: Flutter_Enterprisecard_Server
+
+
+dependencies:
+  http_server: ^0.9.8
+    

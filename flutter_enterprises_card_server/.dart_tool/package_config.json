@@ -1,0 +1,31 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "http_server",
+      "rootUri": "file:///C:/Users/Tnilwhale/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/http_server-0.9.8+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///C:/Users/Tnilwhale/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/mime-0.9.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Tnilwhale/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/path-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "flutter_enterprisecard_server",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-12-17T01:26:04.760526Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.4"
+}
